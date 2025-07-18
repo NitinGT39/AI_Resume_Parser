@@ -48,8 +48,8 @@ Clone the Repository
 bash
 Copy
 Edit
-git clone https://github.com/YOUR_USERNAME/Smart-Resume-Parser.git
-cd Smart-Resume-Parser
+git clone https://github.com/NitinGT39/AI-Resume-Parser.git
+cd AI-Resume-Parser
 Create Virtual Environment
 
 bash
